@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Joke Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="library_welcome_text">Welcome to Activity launched from an Android Library project</string>
+</resources>
